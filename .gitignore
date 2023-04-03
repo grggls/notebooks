@@ -1,0 +1,3 @@
+# https://jupyter-tutorial.readthedocs.io/en/stable/productive/git/best-practices.html
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
